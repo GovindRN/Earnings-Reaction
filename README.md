@@ -62,7 +62,8 @@ You can also set `PG_DSN` via environment variable.
 
 ## Recommended workflow
 
-<img width="1705" height="628" alt="files and table details" src="https://github.com/user-attachments/assets/ce49ac48-60b1-417d-810a-b1111e7fc0f2" />
+<img width="1705" height="628" alt="files and table details" src="https://github.com/user-attachments/assets/52447c57-c5a7-4beb-ad70-1e313734de91" />
+
 
 
 ### 1) Load fundamentals CSVs (optional, if you have the CSV exports)
@@ -113,7 +114,7 @@ artifacts/
   target_gap_1_meta.json
 
 ```
-<img width="679" height="106" alt="Model_Training_Results" src="https://github.com/user-attachments/assets/59b1aa9a-736a-4f8e-979a-882fcd71feb9" />
+<img width="679" height="106" alt="Model_Training_Results" src="https://github.com/user-attachments/assets/8e4dd307-8bc2-4226-970a-7b84329219a7" />
 
 
 ### 6) Predict
@@ -122,7 +123,7 @@ artifacts/
 python predict_earnings_all_features.py
 
 ```
-<img width="1392" height="510" alt="Sample_Prediction" src="https://github.com/user-attachments/assets/7011fca0-cdee-41d7-8a10-a4456766b10b" />
+<img width="1392" height="510" alt="Sample_Prediction" src="https://github.com/user-attachments/assets/7fcc0feb-abdf-4ca0-b6c9-0eedc8d63a17" />
 
 
 ----------
